@@ -58,17 +58,6 @@ After each round, you can choose to:
 
 ---
 
-## 🙌 Acknowledgements
-
-This project is a beginner-friendly Python exercise to practice:
-
-* Loops
-* Conditional statements
-* User input handling
-* Random number generation
-
----
-
 ## 📜 License
 
 This project is open-source and free to use.
