@@ -49,15 +49,6 @@ After each round, you can choose to:
 
 ---
 
-## 💡 Future Improvements
-
-* Add input validation to handle non-integer inputs
-* Store best score across sessions (using file handling)
-* Add a graphical interface (GUI)
-* Add timer-based scoring system
-
----
-
 ## 📜 License
 
 This project is open-source and free to use.
